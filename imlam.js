@@ -20,14 +20,14 @@ function changeImage() {
 
   // 定义图像路径数组
   const imagePaths = [
-    "https://raw.gitmirror.com/covog/picx-images-hosting/master/20230913/7.6kyg1m3nb0g0.gif",
-    "https://raw.gitmirror.com/covog/picx-images-hosting/master/20230913/8.4abct4c54ey0.gif",
-    "https://raw.gitmirror.com/covog/picx-images-hosting/master/20230913/1.4nzrvh696q00.gif",
-    "https://raw.gitmirror.com/covog/picx-images-hosting/master/20230913/2.6mz7kx8f5rk0.gif",
-    "https://raw.gitmirror.com/covog/picx-images-hosting/master/20230913/3.3a1tkr81h2w0.gif",
-    "https://raw.gitmirror.com/covog/picx-images-hosting/master/20230913/4.5yrerqr67ro0.gif",
-    "https://raw.gitmirror.com/covog/picx-images-hosting/master/20230913/5.31lgw9960vk0.gif",
-    "https://raw.gitmirror.com/covog/picx-images-hosting/master/20230913/6.5ec2x4dioc80.gif"
+    "https://jsd.cdn.zzko.cn/gh/covog/picx-images-hosting@master/20230913/7.6kyg1m3nb0g0.gif",
+    "https://jsd.cdn.zzko.cn/gh/covog/picx-images-hosting@master/20230913/8.4abct4c54ey0.gif",
+    "https://jsd.cdn.zzko.cn/gh/covog/picx-images-hosting@master/20230913/1.4nzrvh696q00.gif",
+    "https://jsd.cdn.zzko.cn/gh/covog/picx-images-hosting@master/20230913/2.6mz7kx8f5rk0.gif",
+    "https://jsd.cdn.zzko.cn/gh/covog/picx-images-hosting@master/20230913/3.3a1tkr81h2w0.gif",
+    "https://jsd.cdn.zzko.cn/gh/covog/picx-images-hosting@master/20230913/4.5yrerqr67ro0.gif",
+    "https://jsd.cdn.zzko.cn/gh/covog/picx-images-hosting@master/20230913/5.31lgw9960vk0.gif",
+    "https://jsd.cdn.zzko.cn/gh/covog/picx-images-hosting@master/20230913/6.5ec2x4dioc80.gif"
   ];
 
   // 更新当前图像的索引
